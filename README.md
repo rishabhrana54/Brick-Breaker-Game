@@ -1,0 +1,2 @@
+# Brick-Breaker-Game
+Brick Breaker is a game in which the player must smash a wall of bricks by deflecting a bouncing ball with a bar . The bar may move horizontally and is controlled with the left and right arrow key . The player gets 3 lives to start with, a life is lost if the ball hits the bottom of the screen. When all the bricks have been destroyed, the player advances to a new, harder level. 

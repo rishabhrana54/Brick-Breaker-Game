@@ -183,7 +183,7 @@ def game():
 
         if lifeRemaining == 0:
             gameOver()
-        if count==10:
+        if count==54:
             level()
 
         life(lifeRemaining)
